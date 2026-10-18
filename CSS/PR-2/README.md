@@ -45,6 +45,7 @@ The webpage shows an **E-Grocery Super Market** header at the top, with a search
 ```markdown
 ![E-Grocery Super Market Output](grocerymart
 .png)
+<img src="grocerymart.png" width="600">
 ```
 
 ## 📝 Notes
