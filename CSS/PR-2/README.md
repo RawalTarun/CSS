@@ -40,8 +40,8 @@ E-Grocery-Super-Market/
 
 The webpage shows an **E-Grocery Super Market** header at the top, with a search field and grocery-store image. Under the header, it displays the product count and dropdown filters. Below that, grocery product cards appear in rows, showing product photos, category, name, star rating, price, discount information where applicable, and a green **+ Add** button.
 
-> **Screenshot:** Add a screenshot of your running webpage to this repository and update the image path below.
-<img src="./grocerymart.png" width="600">
+----OUTPUT----
+<img src="./grocerymart.png" width="100%">
 
 ## 📝 Notes
 
@@ -51,7 +51,7 @@ The webpage shows an **E-Grocery Super Market** header at the top, with a search
 
 ## 👨‍💻 Author
 
-Tarun
+ Rawal Tarun
 
 ---
 
