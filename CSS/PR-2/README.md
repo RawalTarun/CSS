@@ -43,7 +43,8 @@ The webpage shows an **E-Grocery Super Market** header at the top, with a search
 > **Screenshot:** Add a screenshot of your running webpage to this repository and update the image path below.
 
 ```markdown
-![E-Grocery Super Market Output](screenshot.png)
+![E-Grocery Super Market Output](grocerymart
+.png)
 ```
 
 ## 📝 Notes
